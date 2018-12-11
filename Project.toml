@@ -1,0 +1,6 @@
+authors = ["Joao Felipe Santos <joao.eel@gmail.com>"]
+name = "Capacitor.jl"
+uuid = "63482504-fd57-11e8-14b2-fbc6bf50b59f"
+version = "0.1.0"
+
+[deps]
